@@ -1,0 +1,10 @@
+annotated-types
+box2d-py
+pydantic
+pydantic_core
+pygame
+pygame-ce
+pygame-gui
+python-i18n
+swig
+typing_extensions
